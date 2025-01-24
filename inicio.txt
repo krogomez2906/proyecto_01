@@ -3,8 +3,20 @@ Hola, probando github
 
  segunda linea prueba
 
+<<<<<<< HEAD
  Tercera linea
 
 tabajamos en rama_1
+=======
+
+ tercera linea
+
+
+ prueba cuatro
+ 
+ soy la rama rama_1
+
+ trabajo en rama_1
+>>>>>>> 618fe337b345e5ae363241ea34e22f78bdef3917
 
  
